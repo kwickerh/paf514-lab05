@@ -15,7 +15,8 @@ description: The chronicles of an aspiring data analyst and childless cat lady.
 author: Kelsey Wickerham
 
 #Define site url
-url: https://kwickerh.github.io/paf514-lab05/
+url: https://kwickerh.github.io
+baseurl: /paf514-lab05/
 
 # --- List of links in the navigation bar --- #
 
