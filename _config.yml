@@ -16,7 +16,7 @@ author: Kelsey Wickerham
 
 #Define site url
 url: https://kwickerh.github.io
-baseurl: /paf514-lab05/
+baseurl: paf514-lab05
 
 # --- List of links in the navigation bar --- #
 
