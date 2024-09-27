@@ -40,7 +40,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 <style>
 <!-- only <h3> headers between <div class=gs-section-01> tags -->
 .gs-section-01 h3 { 
-     color: black }
+     color: red }
 
 .gs-section-01 p {
      font-size: 30px;
@@ -48,7 +48,7 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, f
 
 <!-- only <h3> headers between <div class=gs-section-02> tags -->
 .gs-section-01 h3 { 
-     color: black }
+     color: blue }
 
 .gs-section-01 p {
      font-size: 30px;
